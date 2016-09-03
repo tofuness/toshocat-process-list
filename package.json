@@ -12,5 +12,6 @@
   "dependencies": {
     "cmake-js": "^3.3.0",
     "nan": "^2.4.0"
-  }
+  },
+  "os": ["win32"]
 }
