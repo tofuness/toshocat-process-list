@@ -1,0 +1,16 @@
+{
+  "name": "toshocat-process-list",
+  "version": "1.0.0",
+  "description": "Native module for Toshocart",
+  "main": "build/Release/addon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cmake-js compile"
+  },
+  "author": "Dennis Jin <dennis@tofuness.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cmake-js": "^3.3.0",
+    "nan": "^2.4.0"
+  }
+}
